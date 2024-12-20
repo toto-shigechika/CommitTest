@@ -3,6 +3,6 @@ public class App {
         System.out.print("Hello, World!");
         System.out.print("Hello, World!2");
         System.out.print("Hello, World!3");
-        System.out.print("Hello, World!4.5");
+        System.out.print("Hello, World!4");
     }
 }
